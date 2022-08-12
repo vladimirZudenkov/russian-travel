@@ -1,0 +1,17 @@
+.header__lang {
+  text-decoration: none;
+  display: flex;
+  margin: 0;
+  justify-content: space-between;
+  margin-bottom: 6px;
+}
+
+.header__lang :first-child {
+  margin-right: 18px;
+}
+
+@media screen and (max-width: 767px) {
+  .header__lang :first-child {
+    margin-right: 16px;
+  }
+}

@@ -1,0 +1,7 @@
+.footer__nav {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  flex-wrap: wrap;
+  align-items: baseline;
+}
