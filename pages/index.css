@@ -1,6 +1,6 @@
 /* импорт глобальных стилей и шрифта*/
 @import url(../vendor/normalize.css);
-@import url(../fonts/fonts.css);
+@import url(../vendor/fonts/fonts.css);
 @import url(../blocks/page/page.css);
 
 /* импорт стилей body-root */
@@ -34,9 +34,6 @@
 @import url(../blocks/photo-grid/photo-grid.css);
 @import url(../blocks/photo-grid/__item/photo-grid__item.css);
 
-/* импорт стилей content - content */
-@import url(../blocks/content/content.css);
-
 /* импорт стилей content - places */
 @import url(../blocks/places/places.css);
 
@@ -59,8 +56,6 @@
 /* импорт стилей content - footer*/
 @import url(../blocks/footer/__author/footer__author.css);
 @import url(../blocks/footer/__nav/footer__nav.css);
-
 @import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__links/footer__links.css);
-
 @import url(../blocks/footer/footer.css);
