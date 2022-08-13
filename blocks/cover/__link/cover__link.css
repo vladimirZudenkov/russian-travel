@@ -9,6 +9,9 @@
   text-decoration: none;
   position: relative;
   box-sizing: border-box;
+  max-height: 740px;
+  height: 100%;
+  justify-content: center;
 }
 
 .cover__link::before {

@@ -4,7 +4,7 @@
   padding-left: 0;
   display: flex;
   flex-direction: row;
-  width: 465px;
+  gap: 18px;
   justify-content: space-between;
 }
 

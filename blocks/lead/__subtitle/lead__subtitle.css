@@ -1,7 +1,7 @@
 .lead__subtitle {
-  width: 640px;
+  max-width: 640px;
+  width: 100%;
   margin: 32px auto 64px;
-  font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 30px;
@@ -23,7 +23,7 @@
     font-size: 16px;
     line-height: 20px;
     margin: 16px auto 40px;
-    width: 288px;
+    max-width: 288px;
   }
 }
 

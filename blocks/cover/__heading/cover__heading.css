@@ -1,13 +1,12 @@
 .cover__heading {
   max-width: 560px;
-  font-family: Inter;
   font-style: normal;
   font-weight: 900;
   font-size: 72px;
   line-height: 76px;
   text-align: center;
   color: #FFFFFF;
-  margin-top: 245px;
+  margin: 0;
   margin-bottom: 32px;
   position: relative;
 }
